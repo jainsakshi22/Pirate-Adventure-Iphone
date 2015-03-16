@@ -1,0 +1,3 @@
+# Pirate-Adventure-Iphone
+
+The application is a sample project. It's a basic game developed for leaning purpose.The application should have a coordinate system. It is started with a 4 by 3 coordinate system. Users should be able to navigate to different "tiles" by pressing one of four directional arrows. Tiles are objects which will package the information to update the view. When a valid movement is not possible, the buttons should be inactive or hidden. It has two classes- character and boss. Character has weapons, health,damage,armor stat. Moving on to different tiles will decrease your health. To finish an application, decrease the boss health to zero, otherwise restart the application.
